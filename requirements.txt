@@ -54,7 +54,7 @@ jsonfield==1.0.3
 kombu==3.0.26
 MarkupSafe==0.23
 ndg-httpsclient==0.4.0
-nltk==3.2.1
+nltk==3.4.5
 numpy==1.11.2
 oauthlib==1.1.2
 pdb==0.1
