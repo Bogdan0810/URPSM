@@ -67,7 +67,7 @@ PyJWT==1.4.0
 pyOpenSSL==0.15.1
 pysolr==3.6.0
 python-dateutil==2.4.2
-python-gnupg==0.3.7
+python-gnupg==0.4.4
 python-magic==0.4.6
 python-openid==2.2.5
 python-social-auth==0.2.19
