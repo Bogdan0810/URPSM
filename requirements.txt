@@ -75,7 +75,7 @@ pytz==2015.4
 PyYAML==3.11
 qrcode==4.0.4
 redis==2.10.3
-requests==2.10.0
+requests==2.20.0
 requests-oauthlib==0.6.1
 requests-toolbelt==0.7.0
 sendgrid-django==4.0.4
