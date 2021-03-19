@@ -59,7 +59,7 @@ numpy==1.11.2
 oauthlib==1.1.2
 pdb==0.1
 phonenumbers==7.7.5
-Pillow==2.8.2
+Pillow==8.1.1
 psycopg2==2.6
 pyasn1==0.1.8
 pycparser==2.14
